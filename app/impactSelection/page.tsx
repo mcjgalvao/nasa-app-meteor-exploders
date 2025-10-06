@@ -58,7 +58,7 @@ function AuxHome() {
               //muted
               loop
               controls
-              className="fixed top-0 left-0 w-100 h-80 object-cover z-50 bg-black/80"
+              className="fixed top-0 left-0 w-140 h-260 object-cover z-50 bg-black/80"
             />
             <button
               onClick={() => setShowVideo(false)}
